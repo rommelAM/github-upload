@@ -1,0 +1,49 @@
+C:\Users\Enzo\Desktop\C#\Sistema de Red\Servidor\bin\Debug\Servidor.exe.config
+C:\Users\Enzo\Desktop\C#\Sistema de Red\Servidor\bin\Debug\Servidor.exe
+C:\Users\Enzo\Desktop\C#\Sistema de Red\Servidor\bin\Debug\Servidor.pdb
+C:\Users\Enzo\Desktop\C#\Sistema de Red\Servidor\obj\Debug\Servidor.Properties.Resources.resources
+C:\Users\Enzo\Desktop\C#\Sistema de Red\Servidor\obj\Debug\Servidor.ServidorForm.resources
+C:\Users\Enzo\Desktop\C#\Sistema de Red\Servidor\obj\Debug\Servidor.csproj.GenerateResource.Cache
+C:\Users\Enzo\Desktop\C#\Sistema de Red\Servidor\obj\Debug\Servidor.exe
+C:\Users\Enzo\Desktop\C#\Sistema de Red\Servidor\obj\Debug\Servidor.pdb
+C:\Users\Enzo\Desktop\C#\Sistema de Red\Servidor\obj\Debug\Servidor.csprojResolveAssemblyReference.cache
+D:\UNIVERSIDAD\6TO SEMESTRE\Aplicaciones Distribuidos\TEORIA\EJEMPLO DE PROYECTO\Sistema-TCP-master\Servidor\bin\Debug\Servidor.exe.config
+D:\UNIVERSIDAD\6TO SEMESTRE\Aplicaciones Distribuidos\TEORIA\EJEMPLO DE PROYECTO\Sistema-TCP-master\Servidor\bin\Debug\Servidor.exe
+D:\UNIVERSIDAD\6TO SEMESTRE\Aplicaciones Distribuidos\TEORIA\EJEMPLO DE PROYECTO\Sistema-TCP-master\Servidor\bin\Debug\Servidor.pdb
+D:\UNIVERSIDAD\6TO SEMESTRE\Aplicaciones Distribuidos\TEORIA\EJEMPLO DE PROYECTO\Sistema-TCP-master\Servidor\obj\Debug\Servidor.csproj.AssemblyReference.cache
+D:\UNIVERSIDAD\6TO SEMESTRE\Aplicaciones Distribuidos\TEORIA\EJEMPLO DE PROYECTO\Sistema-TCP-master\Servidor\obj\Debug\Servidor.Properties.Resources.resources
+D:\UNIVERSIDAD\6TO SEMESTRE\Aplicaciones Distribuidos\TEORIA\EJEMPLO DE PROYECTO\Sistema-TCP-master\Servidor\obj\Debug\Servidor.ServidorForm.resources
+D:\UNIVERSIDAD\6TO SEMESTRE\Aplicaciones Distribuidos\TEORIA\EJEMPLO DE PROYECTO\Sistema-TCP-master\Servidor\obj\Debug\Servidor.csproj.GenerateResource.cache
+D:\UNIVERSIDAD\6TO SEMESTRE\Aplicaciones Distribuidos\TEORIA\EJEMPLO DE PROYECTO\Sistema-TCP-master\Servidor\obj\Debug\Servidor.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD\6TO SEMESTRE\Aplicaciones Distribuidos\TEORIA\EJEMPLO DE PROYECTO\Sistema-TCP-master\Servidor\obj\Debug\Servidor.exe
+D:\UNIVERSIDAD\6TO SEMESTRE\Aplicaciones Distribuidos\TEORIA\EJEMPLO DE PROYECTO\Sistema-TCP-master\Servidor\obj\Debug\Servidor.pdb
+D:\UNIVERSIDAD\6TO SEMESTRE\Aplicaciones Distribuidos\TEORIA\Proyecto-1Bim\proyecto01_RommelA_MateoS\Servidor\bin\Debug\Servidor.exe.config
+D:\UNIVERSIDAD\6TO SEMESTRE\Aplicaciones Distribuidos\TEORIA\Proyecto-1Bim\proyecto01_RommelA_MateoS\Servidor\bin\Debug\Servidor.exe
+D:\UNIVERSIDAD\6TO SEMESTRE\Aplicaciones Distribuidos\TEORIA\Proyecto-1Bim\proyecto01_RommelA_MateoS\Servidor\bin\Debug\Servidor.pdb
+D:\UNIVERSIDAD\6TO SEMESTRE\Aplicaciones Distribuidos\TEORIA\Proyecto-1Bim\proyecto01_RommelA_MateoS\Servidor\obj\Debug\Servidor.csproj.AssemblyReference.cache
+D:\UNIVERSIDAD\6TO SEMESTRE\Aplicaciones Distribuidos\TEORIA\Proyecto-1Bim\proyecto01_RommelA_MateoS\Servidor\obj\Debug\Servidor.Properties.Resources.resources
+D:\UNIVERSIDAD\6TO SEMESTRE\Aplicaciones Distribuidos\TEORIA\Proyecto-1Bim\proyecto01_RommelA_MateoS\Servidor\obj\Debug\Servidor.csproj.GenerateResource.cache
+D:\UNIVERSIDAD\6TO SEMESTRE\Aplicaciones Distribuidos\TEORIA\Proyecto-1Bim\proyecto01_RommelA_MateoS\Servidor\obj\Debug\Servidor.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD\6TO SEMESTRE\Aplicaciones Distribuidos\TEORIA\Proyecto-1Bim\proyecto01_RommelA_MateoS\Servidor\obj\Debug\Servidor.exe
+D:\UNIVERSIDAD\6TO SEMESTRE\Aplicaciones Distribuidos\TEORIA\Proyecto-1Bim\proyecto01_RommelA_MateoS\Servidor\obj\Debug\Servidor.pdb
+D:\UNIVERSIDAD\6TO SEMESTRE\Aplicaciones Distribuidos\TEORIA\Proyecto-1Bim\proyecto01_RommelA_MateoS\Servidor\obj\Debug\Servidor.frmServidor.resources
+C:\Users\Mateo\OneDrive\Documentos\Mateo Salvador\6to Semestre\APLICACIONES DISTRIBUIDAS\proyecto01_RommelA_MateoS\proyecto01_RommelA_MateoS\Servidor\bin\Debug\Servidor.exe.config
+C:\Users\Mateo\OneDrive\Documentos\Mateo Salvador\6to Semestre\APLICACIONES DISTRIBUIDAS\proyecto01_RommelA_MateoS\proyecto01_RommelA_MateoS\Servidor\bin\Debug\Servidor.exe
+C:\Users\Mateo\OneDrive\Documentos\Mateo Salvador\6to Semestre\APLICACIONES DISTRIBUIDAS\proyecto01_RommelA_MateoS\proyecto01_RommelA_MateoS\Servidor\bin\Debug\Servidor.pdb
+C:\Users\Mateo\OneDrive\Documentos\Mateo Salvador\6to Semestre\APLICACIONES DISTRIBUIDAS\proyecto01_RommelA_MateoS\proyecto01_RommelA_MateoS\Servidor\obj\Debug\Servidor.csprojAssemblyReference.cache
+C:\Users\Mateo\OneDrive\Documentos\Mateo Salvador\6to Semestre\APLICACIONES DISTRIBUIDAS\proyecto01_RommelA_MateoS\proyecto01_RommelA_MateoS\Servidor\obj\Debug\Servidor.Properties.Resources.resources
+C:\Users\Mateo\OneDrive\Documentos\Mateo Salvador\6to Semestre\APLICACIONES DISTRIBUIDAS\proyecto01_RommelA_MateoS\proyecto01_RommelA_MateoS\Servidor\obj\Debug\Servidor.frmServidor.resources
+C:\Users\Mateo\OneDrive\Documentos\Mateo Salvador\6to Semestre\APLICACIONES DISTRIBUIDAS\proyecto01_RommelA_MateoS\proyecto01_RommelA_MateoS\Servidor\obj\Debug\Servidor.csproj.GenerateResource.cache
+C:\Users\Mateo\OneDrive\Documentos\Mateo Salvador\6to Semestre\APLICACIONES DISTRIBUIDAS\proyecto01_RommelA_MateoS\proyecto01_RommelA_MateoS\Servidor\obj\Debug\Servidor.csproj.CoreCompileInputs.cache
+C:\Users\Mateo\OneDrive\Documentos\Mateo Salvador\6to Semestre\APLICACIONES DISTRIBUIDAS\proyecto01_RommelA_MateoS\proyecto01_RommelA_MateoS\Servidor\obj\Debug\Servidor.exe
+C:\Users\Mateo\OneDrive\Documentos\Mateo Salvador\6to Semestre\APLICACIONES DISTRIBUIDAS\proyecto01_RommelA_MateoS\proyecto01_RommelA_MateoS\Servidor\obj\Debug\Servidor.pdb
+D:\UNIVERSIDAD\6TO SEMESTRE\Aplicaciones Distribuidos\TEORIA\Proyecto01-FINAL\proyecto01_RommelA_MateoS\Servidor\bin\Debug\Servidor.exe.config
+D:\UNIVERSIDAD\6TO SEMESTRE\Aplicaciones Distribuidos\TEORIA\Proyecto01-FINAL\proyecto01_RommelA_MateoS\Servidor\bin\Debug\Servidor.exe
+D:\UNIVERSIDAD\6TO SEMESTRE\Aplicaciones Distribuidos\TEORIA\Proyecto01-FINAL\proyecto01_RommelA_MateoS\Servidor\bin\Debug\Servidor.pdb
+D:\UNIVERSIDAD\6TO SEMESTRE\Aplicaciones Distribuidos\TEORIA\Proyecto01-FINAL\proyecto01_RommelA_MateoS\Servidor\obj\Debug\Servidor.csproj.AssemblyReference.cache
+D:\UNIVERSIDAD\6TO SEMESTRE\Aplicaciones Distribuidos\TEORIA\Proyecto01-FINAL\proyecto01_RommelA_MateoS\Servidor\obj\Debug\Servidor.Properties.Resources.resources
+D:\UNIVERSIDAD\6TO SEMESTRE\Aplicaciones Distribuidos\TEORIA\Proyecto01-FINAL\proyecto01_RommelA_MateoS\Servidor\obj\Debug\Servidor.frmServidor.resources
+D:\UNIVERSIDAD\6TO SEMESTRE\Aplicaciones Distribuidos\TEORIA\Proyecto01-FINAL\proyecto01_RommelA_MateoS\Servidor\obj\Debug\Servidor.csproj.GenerateResource.cache
+D:\UNIVERSIDAD\6TO SEMESTRE\Aplicaciones Distribuidos\TEORIA\Proyecto01-FINAL\proyecto01_RommelA_MateoS\Servidor\obj\Debug\Servidor.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD\6TO SEMESTRE\Aplicaciones Distribuidos\TEORIA\Proyecto01-FINAL\proyecto01_RommelA_MateoS\Servidor\obj\Debug\Servidor.exe
+D:\UNIVERSIDAD\6TO SEMESTRE\Aplicaciones Distribuidos\TEORIA\Proyecto01-FINAL\proyecto01_RommelA_MateoS\Servidor\obj\Debug\Servidor.pdb
